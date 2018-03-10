@@ -1,0 +1,7 @@
+git clone: descargar repositorio
+git branch: 
+git status: muestra nuevos cambios
+git add: agrega nuevo
+git commit: comenta
+git pull: descargar cambio
+git push: subir cambio
